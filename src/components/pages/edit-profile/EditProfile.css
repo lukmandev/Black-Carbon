@@ -1,0 +1,25 @@
+.input-field {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 140%;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+    margin-top: 15px;
+    margin-left: 20px;
+    color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: transparent;
+    border-bottom: 1px solid #fff;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+.input-field:focus {
+    outline: none;
+}
+
+.react-tel-input .country-list {
+    color: #000;
+}
